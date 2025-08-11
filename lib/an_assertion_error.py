@@ -1,3 +1,7 @@
 #!/usr/bin/env python3
+# Passing assertion
+assert 5 == 5  # Evaluates two equal values
 
-assert(1 == 2)
+# Failing assertion (commented out)
+# assert 5 == 10  # Demonstrates AssertionError
+
